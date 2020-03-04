@@ -1,0 +1,52 @@
+table{
+    color:rgb(206, 200, 200);
+    text-align: center;
+
+    border-collapse: collapse;
+    background-color: rgb(131, 23, 23);
+}
+
+td.Naam, td.prijs, td.voorraad, td.bedrag{
+    background-color: rgb(179, 28, 28);
+    border-bottom:1px solid rgb(194, 57, 57) ;  
+}
+th{
+
+    color:rgb(156, 155, 155);
+}
+.Naam{
+    border-left: solid;
+    border-right: solid;
+    border-color:rgb(114, 12, 12) ;
+    border-width:5px ;
+
+}
+.voorraad{
+    border-left: solid;
+    border-right: solid;
+    border-color:rgb(114, 12, 12) ;
+    border-width:5px ;
+  
+}
+
+.prijs{
+    border-left: solid;
+    border-right: solid;
+    border-color:rgb(114, 12, 12) ;
+    border-width:5px ;
+
+}
+.bedrag{
+    border-left: solid;
+    border-right: solid;
+    border-color:rgb(114, 12, 12) ;
+    border-width:5px ;
+
+}
+.Sum{
+    border-left: solid;
+    border-right: solid;
+    border-color:rgb(114, 12, 12) ;
+    border-width:5px ; 
+
+}
